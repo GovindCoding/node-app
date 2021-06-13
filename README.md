@@ -1,2 +1,1 @@
-# node-app
-Node app for openshift demo
+# Node.js Rest APIs with Express & MySQL
